@@ -1,11 +1,11 @@
 # Stock-Price-Prediction
 A Recurrent Neural Network model to predict current stock price of google.
 ## Libraries Used
-### Numpy
-### Matplotlib
-### Keras
-### Pandas
-### Pickle
+Numpy
+Matplotlib
+Keras
+Pandas
+Pickle
 ## Recurrent Neural Network
 ### Introduction
 The Recurrent Neural Network(RNN) is a special type of neural network which has memory(LSTM).In Classical feed forward neural network,the output of any any node depends on the current input.In RNN the output of current state not only depends on current input,but also the output from previous state.
